@@ -3,7 +3,7 @@
 
 Group - 1
 
-| Team Member  |        | 
+| Team Members  |        | 
 | ----------- | ----------- |
 | Harsh Khona      | 1914031       | 
 | Mehul Parekh   | 1914044        |
@@ -11,4 +11,5 @@ Group - 1
 | Hemil Mehta | 1914038 |
 
 | Guide | Mrs. Nilkamal More | 
+| ----------- | ----------- |
 
