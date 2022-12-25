@@ -1,4 +1,4 @@
-# Pothole-Classification-using-Deep-Learning-and-ArcGIS
+# Pothole-Detection-using-Deep-Learning-and-ArcGIS
 
 
 Group - 1
